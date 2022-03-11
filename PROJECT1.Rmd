@@ -1,0 +1,18 @@
+---
+title: "PROJECT1"
+author: "Christian Hackelman"
+date: "3/11/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+```{r}
+MATH4753.P1::myddt(ddt, "CCATFISH")
+MATH4753.P1::myddt(ddt, "SMBUFFALO")
+```
+
