@@ -1,4 +1,4 @@
-#' @title MATH4753.P1
+#' MATH4753.P1
 #'
 #' @description Subsets a given data set and produces plot with quadratic curve
 #'
