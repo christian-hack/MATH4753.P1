@@ -28,4 +28,3 @@ myddt <- function(df, cond){
   t <- table(df$RIVER)/length(df$RIVER)
   print(t)
 }
-#myddt(df = ddt, "CCATFISH")
