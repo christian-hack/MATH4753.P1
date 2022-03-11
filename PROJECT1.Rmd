@@ -12,6 +12,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ## R Markdown
 
 ```{r}
+library(MATH4753.P1)
 MATH4753.P1::myddt(ddt, "CCATFISH")
 MATH4753.P1::myddt(ddt, "SMBUFFALO")
 ```

@@ -1,7 +1,7 @@
 Package: MATH4753.P1
 Type: Package
 Title: Project 1 Package
-Version: 0.1.0
+Version: 0.1.1
 Author: Christian Hackelman
 Maintainer: Christian Hackelman <cphackelman@ou.edu>
 Description: Subsets a given data set and produces plot with quadratic curve
